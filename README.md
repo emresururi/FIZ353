@@ -11,8 +11,8 @@ You can reach the source files at [https://github.com/emresururi/FIZ353/](https:
 
 Lecture#|Topic
 ---:|---
-1|[Importing, parsing, processing and exporting datasets (Pandas module)]()
-2|[Visualization of datasets (Seaborn module)]()
+1|[Importing, parsing, processing and exporting datasets (Pandas module)](FIZ353_01_DataImportParseProcessExport.html){:target="ders"}
+2|[Visualization of datasets (Seaborn module)](FIZ353_02_VisualizationOfDatasets.html){:target="ders"}
 
 In addition to many ethical reasons, usage without proper referencing is also against the [imposed licence (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html) and therefore legally prohibited.
 
