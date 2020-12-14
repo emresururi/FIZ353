@@ -19,6 +19,8 @@ Lecture#|Topic
 6(a)|[PCA for Coupled Harmonic Oscillators (3 Springs, 2 Bodies)](FIZ353_06_a_MatrixApplications_SVD_PCA_3Springs2Bodies.html){:target="ders"}
 6(b)|[PCA for Dimensionality Reduction (3 Cameras, 1 Oscillator)](FIZ353_06_b_MatrixApplications_SVD_PCA.html){:target="ders"}
 6(c)|[PCA for Dimensionality Reduction, with noise (3 Cameras, 1 Oscillator)](FIZ353_06_c_MatrixApplications_SVD_PCA_with_noise.html){:target="ders"}
+7|[Regression](FIZ353_07_Regression.html){:target="ders"}
+8|[Drawing From A Given Distribution](FIZ353_08_Drawing_From_A_Given_Distribution.html){:target="ders"}
 
 
 In addition to many ethical reasons, usage without proper referencing is also against the [imposed licence (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html) and therefore legally prohibited.
