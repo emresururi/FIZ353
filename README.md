@@ -22,6 +22,7 @@ Lecture#|Topic
 7|[Regression](FIZ353_07_Regression.html){:target="ders"}
 8|[Drawing From A Given Distribution](FIZ353_08_Drawing_From_A_Given_Distribution.html){:target="ders"}
 9|[Interpolation](FIZ353_09_Interpolation.html){:target="ders"}
+10|[Finite Difference Method & ODEs](FIZ353_10_FiniteDifference_ODEs.html){:target="ders"}
 
 In addition to many ethical reasons, usage without proper referencing is also against the [imposed licence (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html) and therefore legally prohibited.
 
