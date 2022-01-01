@@ -24,7 +24,7 @@ Lecture#|Topic
 9|[Regression](FIZ353_07_Regression.html){:target="ders"}
 10|[Interpolation](FIZ353_09_Interpolation.html){:target="ders"}
 11|[Finite Difference Method & ODEs](FIZ353_10_FiniteDifference_ODEs.html){:target="ders"}
---|[Compressed Sensing](In progress){:target="ders"}
+--|[Compressed Sensing(In progress)](FourierAnalysis_CompressedSensing.html){:target="ders"}
 
 In addition to many ethical reasons, usage without proper referencing is also against the [imposed licence (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html) and therefore legally prohibited.
 
